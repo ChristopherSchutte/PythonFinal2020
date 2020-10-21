@@ -57,9 +57,7 @@ Footprint in the last 30 years and see if those countries have higher or lower
 infection rates then countries with little, no, or increased Carbon Footprint change
 Sources:
 https://www.footprintnetwork.org (a great api with extensive datasets on the carbon
-footprint of nearly every nation on earth dating back decades, the api is a little bit of a
-
-pain to work with due to a data structure that relies on a template that looks a little
+footprint of nearly every nation on earth dating back decades, the api is a little bit of a pain to work with due to a data structure that relies on a template that looks a little
 crazy in PPrint, but the data is free and high quality)
 https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset (free,
 updating daily, great formatting, already clean, this is a dream CSV to work with and
